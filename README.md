@@ -1,6 +1,8 @@
 # Web API
 
-## How to
+## Challenge
+
+Dockerize this application
 
 ```bash
 $ docker ????
